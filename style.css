@@ -1,0 +1,126 @@
+
+.online{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-container{
+    background-color: blanchedalmond;
+}
+.button{
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: aqua;
+
+}
+.testimonial{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 50px;
+}
+
+.images-container{
+    background-color: blanchedalmond;
+    width: 1600px;
+    height: 130px;
+}
+.image-blogs-item-1{
+   width: 500px;
+   float: right;
+   margin-right: 500px;
+   color: black;
+} 
+.image-blogs-item-2{
+    width: 200px;
+    float: right;
+    margin-right: -50px;
+    color:white;
+ } 
+
+ 
+
+
+
+
+
+ 
+  
+  
+  
+  
+.flexbox-container{
+    background-color: black;
+    display: flex;
+    }
+.flexbox-item-1{
+    width: 400px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 30px;
+    color: white;
+   }
+#item-manage{
+    padding-top: 30px;
+    text-align: center;
+}   
+.flexbox-item-2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 30px;
+    margin-left: 300px;
+    color: white;
+   }
+.flexbox-item-3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 30px;
+    color: white;
+   }
+.flexbox-item-4{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 30px;
+    color: white;
+   }
+.footer{
+    text-align: center;
+    background-color:black;
+    color: white;
+    padding-bottom: 10px;
+}
+   
+
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .flexbox-item-1{
+   min-height: 100px;
+   }
+.flexbox-item-2{
+    min-height:300px;
+  }
+ .flexbox-item-3{
+    min-height: 400px;
+ } */
+  
